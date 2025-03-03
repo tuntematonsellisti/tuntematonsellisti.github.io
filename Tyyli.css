@@ -173,12 +173,6 @@ li {
     font-size: 1.2rem;
 }
 
-.lista {
-    font-family: "Playfair Display";
-    font-size: 0.8rem;
-    margin-left: 20px;
-}
-
 /* Footer */
 footer {
     background-color: #6A1C29;
@@ -235,6 +229,12 @@ footer a {
         padding: 0 10px;
     }
 
+.lista {
+    font-family: "Playfair Display";
+    font-size: 0.8rem;
+    margin-left: 20px;
+}
+    
     nav ul {
         flex-direction: column; /* Pakottaa linkit allekkain mobiilissa */
         align-items: center; /* Keskittää linkit */
@@ -301,6 +301,12 @@ footer a {
         display: block;
     }
 
+.lista {
+    font-family: "Playfair Display";
+    font-size: 0.8rem;
+    margin-left: 20px;
+}
+    
     nav ul {
         flex-direction: row;
         justify-content: center;
@@ -345,6 +351,12 @@ footer a {
         text-align: left;
     }
 
+.lista {
+    font-family: "Playfair Display";
+    font-size: 0.8rem;
+    margin-left: 20px;
+}
+    
     nav ul {
         flex-direction: row;
         justify-content: center;
